@@ -1,0 +1,27 @@
+ h3{
+    text-align: center;
+    margin: 2rem;
+ }
+.cartWrapper{
+    overflow-y: scroll;
+
+
+}
+.cartCard {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #dcd7d7;
+    margin-bottom: 20px;
+    padding: 14px;
+     
+     
+}
+img{
+    width: 9rem;
+    height:5rem ;
+}
+.btn{
+    border-radius: 10px;
+}
+ 
